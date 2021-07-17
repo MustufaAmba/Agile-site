@@ -1,0 +1,120 @@
+@font-face {font-family: "Bank Gothic";
+    src: url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.svg#Bank Gothic") format("svg"); /* iOS 4.1- */
+}
+
+.bg_image_div
+{
+    background-image:  linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ),url(https://agilecloudconsulting.com/wp-content/uploads/2021/02/agile-concept-with-blurred-city-lights-picture-id1191801277.jpg);
+    height:400px;
+    background-position: center; 
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.image_text
+{
+    font-family: "Bank Gothic";
+    color: white;
+    font-size: 40px;
+}
+h1::first-letter {
+    font-size: 130%;
+  }
+.types_of_method
+{
+    display: flex;
+    justify-content: space-evenly;
+    height:140px;
+    color:#1AA0DA;
+    cursor: pointer;
+    font-weight: 500;
+}
+.header_text_method
+{
+    font-family: "Bank Gothic";
+    font-size: 43px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.alltext
+{
+    margin-top:10px;
+    color:#5D7992;
+    line-height: 200%;
+    font-weight: 500;
+}
+.principal_div
+{
+    background-color: #1AA0DA;
+    height: 500px;
+    margin: 10px 0px 0px 0px;
+}
+.principal_inner_div
+{
+    display: flex;
+    justify-content: space-around;
+    height:250px;
+    align-items: center;
+    color:white;  
+}
+.individual_div
+{
+    width:292px;
+}
+.pattern_div
+{
+    height:953px;
+
+}
+.pattern_header
+{
+    font-size: 45px;
+    font-family: "Bank Gothic";
+
+}
+.patterndiv1st
+{
+    display: flex;
+    justify-content:center;
+}
+.circle_shape
+{
+    height:20px;
+    width:20px;
+    border-radius: 50%;
+    background-color: #1AA0DA;
+}
+.line_shape
+{
+    width:1px;
+    height:280px;
+    background-color: lightgrey;
+}
+.sixdivs1
+{
+    height:291px;
+    width:600px;
+    display:flex;
+    justify-content: center;
+}
+.sixdivs2
+{
+    height:291px;
+    width:600px;
+}
+.sixdivs3
+{
+    height:291px;
+    width:600px;
+}
+.sixdivs6
+{
+    height:291px;
+    width:600px;
+}

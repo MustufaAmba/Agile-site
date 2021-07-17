@@ -1,0 +1,73 @@
+.Topheader
+{
+    height:43px;
+    background-color: #1BA0DB;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+}
+.Topheader-left
+{
+    margin-left: 150px;
+}
+.Topheader-right
+{
+    margin-top: 8px;
+}
+.mail
+{
+    text-decoration: none !important;
+    color: white;
+    font-size: small;
+}
+.mail:hover
+{
+    color: white;
+}
+.call
+{
+
+    text-decoration: none !important;
+    color: white;
+    font-size: small;
+}
+.call:hover{
+    color: white;
+}
+.headerlinks
+{
+    text-decoration: none !important;
+    margin-left:30px;
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.headerlinks:hover{
+    color: white;
+}
+.Bottomheader
+{
+    height:110px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logocss
+{
+    margin-left: 180px;
+    margin-top: 5px;
+}
+.bottomheaderlinks
+{
+    font-size: large;
+    text-decoration: none !important;
+    color:black ;
+    margin-left:30px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.bottomheaderlinks:hover{
+    color:black ;
+}

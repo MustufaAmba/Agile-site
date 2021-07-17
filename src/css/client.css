@@ -1,0 +1,46 @@
+.client_img_div
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://agilecloudconsulting.com/wp-content/uploads/2021/02/global-communication-network-concept-global-business-picture-id1161358578.jpg);
+  height: 400px;
+  background-position: center;
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.image_text {
+    font-family: "Bank Gothic";
+    color: white;
+    font-size: 40px;
+  }
+  h1::first-letter {
+    font-size: 130%;
+  }
+  .our_clients_div
+  {
+      height:1300px;
+      background-color: #F7FBFC;
+  }
+  .our_clients_
+  {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .testimonials
+  {
+    height:1350px;
+  }
+  .test_text {
+    font-family: "Bank Gothic";
+    color: #223353;
+    font-size: 40px;
+  }
+  .test_inner_div
+  {
+    display: flex;
+    justify-content: center;
+    width:1500px;
+    display: flex;
+    flex-wrap: wrap;
+  }

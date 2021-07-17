@@ -1,0 +1,256 @@
+
+@font-face {font-family: "Bank Gothic";
+    src: url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.svg#Bank Gothic") format("svg"); /* iOS 4.1- */
+}
+.home_img
+{
+    background-image:url('https://agilecloudconsulting.com/wp-content/uploads/2020/07/webBG-1-1920x1021.jpg');
+    height:80vh;
+    background-repeat: no-repeat repeat;
+    background-position: center; 
+    background-size: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.homevideo
+{
+    align-self: flex-start;
+    border:none;
+}
+.right_screen
+{
+    align-self:center;
+    width: 700px;
+}
+.maintext
+{
+    font-family: "Bank Gothic";
+    font-size: 40px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+.subtext
+{ 
+    font-size: 18px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.left_screen
+{
+    align-self:center;
+}
+.awardssection
+{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.Projectdiv
+{
+    background-color: #f7fbfc;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.projectdivleft
+{
+    width:500px;
+    margin-left: 100px;
+}
+.headertext
+{
+    font-family: "Bank Gothic";
+    font-size: xxx-large;
+    color:#223353;
+    letter-spacing: 4px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+.projecttext
+{
+    
+    line-height: 200%;
+    color:#5d7992;
+    font-weight: 500;
+}
+.projectdivright
+{
+    position: relative;
+    top:5%;
+    align-self: flex-end;
+    margin-right: 100px;
+}
+.serviceheader
+{
+    font-family: "Bank Gothic";    
+    font-size: 45px;
+    color: #223353;
+    font-weight:350 ;
+    margin-top: 50px;
+}
+.servicetext
+{
+   font-size: larger;
+   color:#5d7992;
+   line-height: 200%;
+   margin-bottom: 50px;
+}
+.servicesdiv
+{
+    display:flex;
+    justify-content: center;
+    margin-right:10px;
+    align-items: center;
+}
+.Methodology
+{
+    height:800px;
+}
+.Methodology
+{
+    margin-top:50px ;
+}
+.methodtext
+{
+    font-size: 18px;
+    color:#5d7992;
+    line-height: 150%;
+    margin-bottom: 50px;
+    font-weight: 500;
+}.methodheader
+{
+    font-family: "Bank Gothic"; 
+}
+.methodlink
+{
+    color:#1BA0DB;
+    font-weight: 750;
+    text-decoration: none !important;
+}
+.methodlink:hover{
+    color:#1BA0DB;
+}
+.casestudy
+{
+    height:520px;
+    display:flex;
+    justify-content: center;
+    margin-right:10px;
+
+}
+.casestudy_header
+{
+    font-family: "Bank Gothic";
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom:20px ;
+}
+.horizontal_cards
+{
+    height:400px;
+    background-color: #F7FBFC;
+    display: flex;
+    justify-content:center;
+    
+}
+.carddiv
+{
+    width: 550px;
+    background-color: white;
+    height:250px;
+    align-self: center;
+    color:#5d7992;
+    font-weight: 500;
+}
+.learnmore
+{
+    float: right;
+    text-decoration: none !important;
+    color:#1BA0DB;
+    font-weight: 600;
+}
+.learnmore:hover
+{
+    color:#1BA0DB;
+}
+.comicdiv
+{
+    background-image: url('https://agilecloudconsulting.com/wp-content/uploads/2019/08/comib_bg.jpg');
+    height:550px;
+    object-fit: contain !important;
+    display: flex;
+    justify-content: space-around;
+}
+.comicimg
+{
+    position: relative;
+    left:150px;
+    height:550px
+}
+.comictext
+{
+    align-self: center;
+    position: relative;
+    right: 5%;
+}
+.comicptag
+{
+    width:650px;
+    color: white;
+    line-height: 200%;
+    position: relative;
+    top:-20px;
+}
+.comicheader
+{
+    font-family: "Bank Gothic";
+    color: white;
+    font-size: 48px;
+    position: relative;
+    top:-20px;
+}
+.comicmiddle
+{
+    color: white;
+    font-weight: 700;
+    margin-bottom: 20px;
+    position: relative;
+    top:-20px;
+}
+.comiclink
+{
+    height:60px;
+    width:200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#1BA0DB;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+.comiclink:hover{
+    color: #1BA0DB;
+}
+.blogpost
+{
+    height:500px;
+    display: flex;
+    justify-content: center;
+}
+.blogheader
+{
+    font-family: "Bank Gothic";
+
+    font-size: 48px;
+}

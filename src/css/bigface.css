@@ -1,0 +1,16 @@
+.bigfaceimage{
+    filter: grayscale(100%);
+}
+img:hover{
+    filter: grayscale(0%);
+}
+.bigfaceh5
+{
+    color:#223353;
+    font-weight: 700;
+}
+.bigfacep
+{
+    color:#223353;
+    font-weight: 500;
+}

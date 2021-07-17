@@ -1,0 +1,128 @@
+
+.contact_img_div
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://agilecloudconsulting.com/wp-content/uploads/2021/02/email-concept-with-downtown-san-francisco-skyline-picture-id1209117730.jpg);
+  height: 400px;
+  background-position: center;
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.image_text {
+    font-family: "Bank Gothic";
+    color: white;
+    font-size: 40px;
+  }
+  h1::first-letter {
+    font-size: 130%;
+  }
+  .contact_text
+  {
+    font-family: "Bank Gothic";
+    color: #223353;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  .mail2
+{
+    text-decoration: none !important;
+    color: #5D7992;
+    font-size: medium;
+    font-weight: 500;
+}
+.mail2:hover
+{
+    color: #5D7992;
+}
+.call2
+{
+    text-decoration: none !important;
+    color: #5D7992;
+    font-size: medium;
+    font-weight: 500; 
+
+}
+.call2:hover{
+    color: #5D7992;
+}
+  .outer_div
+  {
+      height:860px;
+      display: flex;
+      justify-content: space-between;
+  }
+  .inner_div1
+  {
+      flex: 0.3;
+  }
+  .inner_div2
+  {
+      flex:0.75;
+      display: flex;
+      justify-content: center;
+  }
+  .details_div
+  {
+      width:400px;
+      display: flex;
+      flex-direction: column;
+      justify-content:center ;
+  }
+  .adrsss
+{
+    margin: 0px 5px 10px 150px;
+    line-height:50%;
+    color: #5D7992;
+    font-weight: 500;
+}
+.form_div
+{
+    height:720px;
+    width:750px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.rowfirst
+{
+    display: flex;
+    justify-content: space-around;
+}
+.row1{
+    margin-left: 20px;
+}
+.row2{
+    margin-right: 20px;
+}
+.inputformfiled
+{
+    height:60px;
+    width: 255px;
+    border: 1px solid lightgray;
+    outline: none;
+    border-bottom: 3px solid #1BA0DB;
+}
+.row3
+{
+    margin:30px;
+    margin-left:85px;
+}
+.textareafiled
+{
+    height: 195px;
+    width:585px;
+    border: 1px solid lightgray;
+    outline: none;
+    border-bottom: 3px solid #1BA0DB;
+}
+.submitbtn
+{
+    height:53px;
+    width:133px;
+    background-color: #1BA0DB;
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    font-size: large;
+}
