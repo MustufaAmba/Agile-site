@@ -1,4 +1,12 @@
 
+@font-face {font-family: "Bank Gothic";
+    src: url("https://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.eot"); /* IE9*/
+    src: url("https://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.woff2") format("woff2"), /* chrome firefox */
+    url("https://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.woff") format("woff"), /* chrome firefox */
+    url("https://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("https://db.onlinewebfonts.com/t/cd0161509171ec0b9558c548d8e9c26d.svg#Bank Gothic") format("svg"); /* iOS 4.1- */
+}
 .contact_img_div
 {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),

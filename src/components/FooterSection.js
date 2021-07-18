@@ -10,7 +10,7 @@ const FooterSection = () => {
         <h1 className="firstdiv_text">Agile Cloud Consulting</h1>
         <h6 className="firstdiv_text1">"Sprint To Your Success"</h6>
         <div className="contactusdiv">
-          <Link to="/blog" className="link">
+          <Link to="/Contact_us" className="link">
             Contact Us
           </Link>
         </div>
